@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17713" started-at="2020-12-15T03:53:44Z" finished-at="2020-12-15T03:54:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17713" started-at="2020-12-15T03:53:44Z" finished-at="2020-12-15T03:54:01Z">
+      <class name="Native.Demo1">
+        <test-method status="PASS" signature="pr()[pri:0, instance:Native.Demo1@53b32d7]" name="pr" is-config="true" duration-ms="12545" started-at="2020-12-15T09:23:44Z" finished-at="2020-12-15T09:23:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pr -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:Native.Demo1@53b32d7]" name="testCase1" duration-ms="5147" started-at="2020-12-15T09:23:56Z" finished-at="2020-12-15T09:24:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+      </class> <!-- Native.Demo1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
